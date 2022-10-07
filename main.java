@@ -1,4 +1,4 @@
-package Automated_teller_machine;
+package AutomatedTellerMachine;
 import java.util.*;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
