@@ -1,4 +1,4 @@
-package bankProcess;
+package AutomatedTellerMachine;
 import java.io.*;
 public class storage implements Serializable{
 	int d_2000=0;
